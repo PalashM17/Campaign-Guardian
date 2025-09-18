@@ -22,14 +22,16 @@ Campaign Guardian is a Streamlit web application that provides an advanced Ad Ca
     python -m venv venv
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
     ```
-3.  **Install the dependencies:**
+3. **Activate Venv**
+    ```bash
+    source venv/bin/activate
+
+4.  **Install the dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
     *Note: If you don't have a `requirements.txt` file, you can create one from the `pyproject.toml` file or install the dependencies directly.*
-4. **Activate Venv**
-    ```bash
-    source venv/bin/activate
+
 
 ## Usage
 
