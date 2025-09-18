@@ -7,9 +7,7 @@ import numpy as np
 from data_generator import CampaignDataGenerator
 from anomaly_engine import AnomalyEngine
 from ui_components import UIComponents
-import kaleido
-# Ensure Kaleido is properly initialized
-kaleido.get_chrome_sync()
+
 
 # Page config
 st.set_page_config(
