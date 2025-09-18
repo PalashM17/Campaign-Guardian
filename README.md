@@ -51,7 +51,6 @@ The application uses the following Python libraries:
 -   `pandas`
 -   `plotly`
 -   `numpy`
--   `scipy`
 -   `kaleido`
 -   `reportlab`
 
